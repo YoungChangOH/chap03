@@ -1,5 +1,5 @@
 
-public class YeapExample {
+public class LeapExample {
 
 	public static void main(String[] args) {
 		int year = (int)(Math.random()*5000+1);
